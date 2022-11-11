@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# datathings
-Studies, tips and reminders about data.
-=======
 # Datathings
 Studies, tips and reminders about data notebooks and data tools.
 
